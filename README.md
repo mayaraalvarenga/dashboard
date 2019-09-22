@@ -9,4 +9,4 @@ A dashboard concept app inspired by [this](https://www.uplabs.com/posts/dashboar
 <img src="flutter_02.png" width="300">
 
 - Shop item reviews page<br>
-<img src="flutter_03.png" width="300">
+<img src="flutter_03.png" width="300">000
